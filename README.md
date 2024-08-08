@@ -1,6 +1,5 @@
 # CRUD Application with React and Node.js
 
-![Project Banner](./path/to/your/banner-image.png)
 
 ## Overview
 
